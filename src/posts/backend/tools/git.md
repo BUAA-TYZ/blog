@@ -1,5 +1,4 @@
 ---
-icon: laptop-file
 date: 2025-01-04
 category:
   - 工具链
