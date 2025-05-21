@@ -2,6 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/posts/project/": "structure", 
+  "/posts/interview/": "structure", 
   "/posts/backend/": [
     {
       text: "后端",

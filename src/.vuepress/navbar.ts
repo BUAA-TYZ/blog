@@ -14,6 +14,11 @@ export default navbar([
     link: "/posts/backend/",
   },
   {
+    text: "面经思考",
+    icon: "pen-to-square",
+    link: "/posts/interview/",
+  },
+  {
     text: "E-book",
     icon: "book",
     children: [
@@ -32,7 +37,19 @@ export default navbar([
       {
         text: "go语言设计与实现",
         link: "https://draveness.me/golang/",
-      }
+      },
+      {
+        text: "go圣经",
+        link: "https://gopl-zh.github.io/",
+      },
+      {
+        text: "现代javascript教程",
+        link: "https://zh.javascript.info/",
+      },
+      {
+        text: "设计模式",
+        link: "https://refactoringguru.cn/design-patterns/catalog",
+      },
     ],
   },
   {
